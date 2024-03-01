@@ -9,6 +9,7 @@ edition = "2021"
 anyhow = "1.0.80"
 # candle-core = { version = "0.4.0", features = ["cuda"] }
 # candle-nn = { version = "0.4.0", features = ["cuda"] }
-candle-core = { version = "0.4.0", features = [] }
+candle-core = { version = "0.4.0", features = ["cuda"] }
 candle-nn = { version = "0.4.0", features = [] }
 itertools = "0.12.1"
+rand = "0.8.5"
