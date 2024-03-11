@@ -2,7 +2,7 @@
 Implement a minimal Generative Pre-trained Transformer model (GPT) in Rust.
 - Based on [Let's build GPT: from scratch, in code, spelled out](https://www.youtube.com/watch?v=kCc8FmEb1nY) by Andrej Karpathy.
 - Original repo:  https://github.com/karpathy/ng-video-lecture
-- Using the [huggingface/candle crate](https://github.com/huggingface/candle)
+- Using the [huggingface/candle](https://github.com/huggingface/candle) crate
 
 ## Progress
 - [x] Tokenization / encoding
