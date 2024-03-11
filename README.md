@@ -4,4 +4,9 @@ Minimal GPT implementation in Rust.
 - Original repo:  https://github.com/karpathy/ng-video-lecture
 
 ## Progress
- [ ] Bigram model
+- [x] Tokenization / encoding
+- [x] Version 1: Train & evaluate basic Bigram model
+- [ ] Version 2: using matrix multiply
+- [ ] Version 3: adding softmax
+- [ ] Version 4: self-attention
+- [ ] ...
